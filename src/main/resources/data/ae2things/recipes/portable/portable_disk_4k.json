@@ -5,7 +5,7 @@
       "item": "ae2:chest"
     },
     {
-      "item": "ae2:cell_component_16k"
+      "item": "ae2:cell_component_4k"
     },
     {
       "item": "ae2:energy_cell"
@@ -15,6 +15,6 @@
     }
   ],
   "result": {
-    "item": "ae2things:portable_disk_16k"
+    "item": "ae2things:portable_disk_4k"
   }
 }
